@@ -7,7 +7,7 @@ function Card(props) {
     <Box __css={styles} {...rest}>
       {children}
     </Box>
-  );
+  );0
 }
 
 export default Card;
